@@ -4,12 +4,19 @@ body {
 }
 
 .summary {
-   
+    margin-top: 50px;
     background-color: white;
     padding: 30px;
 }
 
 .viz {
+    margin-top: 50px;
+    background-color: white;
+    padding: 30px;
+}
+
+.comparison {
+    margin-top: 30px;
     background-color: white;
     padding: 30px;
 }
@@ -29,4 +36,17 @@ img {
 .viz-img {
     height: 50px;
     width: 50px;
+}
+
+.com-img {
+    height: 200px;
+    width: 350px;
+}
+
+.com-p {
+    
+}
+
+.title {
+    text-align: center;
 }
