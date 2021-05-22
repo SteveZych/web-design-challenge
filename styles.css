@@ -33,7 +33,7 @@ img {
 
 }
 
-.viz-img {
+.small-img {
     height: 50px;
     width: 50px;
 }
@@ -43,10 +43,15 @@ img {
     width: 350px;
 }
 
-.com-p {
-    
+.large-img {
+    height: 300px;
+    width: 500px;
 }
 
 .title {
     text-align: center;
+}
+
+.highlight {
+    border:turquoise;
 }
