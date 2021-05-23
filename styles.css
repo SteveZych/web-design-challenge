@@ -53,5 +53,11 @@ img {
 }
 
 .highlight {
-    border:turquoise;
+    border: 10px solid black;
+}
+
+.data-table{
+    background-color: white;
+    margin-top: 10px;
+    
 }
